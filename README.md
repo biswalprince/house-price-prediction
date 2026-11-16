@@ -10,8 +10,8 @@ The objective is to explore housing data, understand the factors affecting house
 - [x] Explore dataset structure and features
 - [x] Identify missing values
 - [x] Visualize the SalePrice distribution
-- [ ] Handle missing values
-- [ ] Feature engineering
+- [x] Handle missing values
+- [ ] Categorical encoding and feature engineering
 - [ ] Train regression models
 - [ ] Evaluate and improve predictions
 
